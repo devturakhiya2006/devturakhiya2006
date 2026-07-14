@@ -172,8 +172,7 @@ learning:    Design Systems
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devturakhiya2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C4CC&icon_color=00C4CC"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devturakhiya2006&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C4CC"/>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devturakhiya2006&theme=dark&hide_border=true&background=0D1117&ring=00C4CC&fire=FFB387&currStreakLabel=00C4CC)](https://git.io/streak-stats)
 

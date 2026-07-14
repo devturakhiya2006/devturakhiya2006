@@ -7,9 +7,13 @@
 
 #### Full-Stack Developer · UI/UX Designer · Digital Craftsman
 
+Full-Stack Developer · UI/UX Designer · Digital Craftsman
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C4CC&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%7C+HTML+%E2%86%92+React+%E2%86%92+PHP;Designing+Clean+UI%2C+Building+Solid+Systems;Currently%3A+Leveling+Up+Design+Systems;Debugging+with+the+Same+Energy+I+Design+With" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C4CC&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+Developer;Frontend+Developer;UI%2FUX+Designer;Building+Clean+Interfaces+%26+Solid+Systems" alt="Typing SVG" />
 </a>
+</div>
+<!--
 
 </div>
 

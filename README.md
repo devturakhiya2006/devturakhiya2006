@@ -7,8 +7,6 @@
 
 #### Full-Stack Developer · UI/UX Designer · Digital Craftsman
 
-Full-Stack Developer · UI/UX Designer · Digital Craftsman
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C4CC&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+Developer;Frontend+Developer;UI%2FUX+Designer;Building+Clean+Interfaces+%26+Solid+Systems" alt="Typing SVG" />
 </a>
@@ -22,6 +20,7 @@ Full-Stack Developer · UI/UX Designer · Digital Craftsman
 <!-- ============================================================ -->
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-prajapati-a1a976284/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dev.turakhiya)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devturakhiya2006)
 

@@ -24,6 +24,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devturakhiya-portfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dev.turakhiya)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devturakhiya2006)
+![Profile Views](https://komarev.com/ghpvc/?username=devturakhiya2006&label=Profile%20Views&color=00C4CC&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/devturakhiya2006?label=Followers&style=for-the-badge&color=00C4CC&logo=github)](https://github.com/devturakhiya2006?tab=followers)
 
 </div>
 

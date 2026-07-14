@@ -1,20 +1,209 @@
-# 💫 About Me:
-🚀 Hey there! I'm Dev Prajapati — a passionate Developer & UI/UX Designer <br>who loves turning ideas into clean, intuitive digital experiences.<br><br>💡 I bridge the gap between design and development — crafting interfaces <br>that not only look stunning but also perform flawlessly under the hood.<br><br>🛠️ My Tech Stack:<br>- Languages   → C, C++, Java, Python, PHP<br>- Frontend    → HTML, CSS, JavaScript, React.js<br>- Databases   → MySQL, MongoDB<br>- Design      → UI/UX Design, Wireframing, Prototyping<br><br>🎯 What drives me? Writing clean code, obsessing over pixel-perfect <br>design, and building products users actually enjoy using.<br><br>🌱 Currently leveling up in Full-Stack Development & Design Systems.<br><br>⚡ Fun fact: I debug with the same energy I design — relentlessly.
+<!-- ============================================================ -->
+<!--                            HEADER                            -->
+<!-- ============================================================ -->
+<div align="center">
 
+# Dev Prajapati
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dev.turakhiya) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devturakhiya2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=devturakhiya2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devturakhiya2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### Full-Stack Developer · UI/UX Designer · Digital Craftsman
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C4CC&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%7C+HTML+%E2%86%92+React+%E2%86%92+PHP;Designing+Clean+UI%2C+Building+Solid+Systems;Currently%3A+Leveling+Up+Design+Systems;Debugging+with+the+Same+Energy+I+Design+With" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ============================================================ -->
+<!--                       SOCIAL + METRICS                       -->
+<!-- ============================================================ -->
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Dev.turakhiya)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devturakhiya2006)
+
+![Profile Views](https://komarev.com/ghpvc/?username=devturakhiya2006&label=Profile%20Views&color=00C4CC&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/devturakhiya2006?label=Followers&style=for-the-badge&color=00C4CC&logo=github)](https://github.com/devturakhiya2006?tab=followers)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=devturakhiya2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ============================================================ -->
+<!--                       BRAND STATEMENT                        -->
+<!-- ============================================================ -->
+<div align="center">
 
+### 🚀 _"I bridge the gap between design and development — building interfaces that look sharp and hold up under real use."_
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Who I Am
+
+I'm **Dev Prajapati** — a **Full-Stack Developer & UI/UX Designer** who enjoys turning rough ideas into clean, working products.
+
+I work across the stack — from wireframes and prototypes to shipped, functioning apps — with a habit of obsessing over the small details that make an interface feel right. My toolkit spans **C/C++/Java/Python/PHP** on the logic side and **HTML/CSS/JavaScript/React** on the front end, backed by **MySQL** and **MongoDB**.
+
+Right now I'm deepening my **full-stack development** skills and exploring **design systems** — the layer that keeps a product's UI consistent as it scales.
+
+</td>
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name:        Dev Prajapati
+role:        Full-Stack Developer
+focus:       Web Apps · UI/UX
+languages:   C, C++, Java, Python, PHP
+frontend:    HTML, CSS, JS, React
+databases:   MySQL, MongoDB
+design:      UI/UX, Wireframing, Prototyping
+learning:    Design Systems
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                  CURRENTLY BUILDING / LEARNING               -->
+<!-- ============================================================ -->
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- 🌐 Full-stack **web applications** with React front ends
+- 🧾 Small **utility & automation tools** (converters, invoicing)
+- 🎨 UI prototypes moving from **wireframe → working product**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning & Exploring
+- 🧩 **Design Systems** — consistent, scalable UI foundations
+- 🔗 Deeper **full-stack architecture** patterns
+- 🖌️ Sharper **prototyping workflows** in Figma & Adobe XD
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+## 🧰 Tech Stack
+
+<table align="center">
+<tr>
+<td align="right" width="170"><b>🧠 Languages</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark&animate=true" width="48" height="48" alt="c" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark&animate=true" width="48" height="48" alt="cpp" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark&animate=true" width="48" height="48" alt="java" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php&theme=dark&animate=true" width="48" height="48" alt="php" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🖥️ Frontend</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark&animate=true" width="48" height="48" alt="html" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark&animate=true" width="48" height="48" alt="css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark&animate=true" width="48" height="48" alt="js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark&animate=true" width="48" height="48" alt="react" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery&theme=dark&animate=true" width="48" height="48" alt="jquery" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>⚙️ Backend & Frameworks</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel&theme=dark&animate=true" width="48" height="48" alt="laravel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet&theme=dark&animate=true" width="48" height="48" alt="dotnet" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&theme=dark&animate=true" width="48" height="48" alt="firebase" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🗄️ Databases</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark&animate=true" width="48" height="48" alt="sqlite" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🎨 Design Tools</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma&theme=dark&animate=true" width="48" height="48" alt="figma" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ai&theme=dark&animate=true" width="48" height="48" alt="illustrator" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ps&theme=dark&animate=true" width="48" height="48" alt="photoshop" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=xd&theme=dark&animate=true" width="48" height="48" alt="xd" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>🔧 Tools</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="github" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark&animate=true" width="48" height="48" alt="actions" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi&theme=dark&animate=true" width="48" height="48" alt="powerbi" />
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                       FEATURED PROJECTS                      -->
+<!-- ============================================================ -->
+## 📌 Featured Projects
+
+<div align="center">
+
+[![GO Invoice](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=GO_Invoice&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/GO_Invoice)
+[![Artisan Project](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=artisan_project&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/artisan_project)
+[![Final Project](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=final_project&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/final_project)
+[![Unit Converter](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=OIBSIP_UnitConverter&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/OIBSIP_UnitConverter)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                  GITHUB METRICS & STATS                      -->
+<!-- ============================================================ -->
+## 📊 GitHub Metrics & Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devturakhiya2006&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C4CC&icon_color=00C4CC"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devturakhiya2006&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C4CC"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devturakhiya2006&theme=dark&hide_border=true&background=0D1117&ring=00C4CC&fire=FFB387&currStreakLabel=00C4CC)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devturakhiya2006&bg_color=0D1117&color=00C4CC&line=00C4CC&point=ffffff&area=true&hide_border=true)](https://github.com/devturakhiya2006)
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                            FOOTER                            -->
+<!-- ============================================================ -->
+<div align="center">
+
+**_Thanks for stopping by — always open to build something interesting together._**
+
+⭐️ If any of this is useful, consider [following](https://github.com/devturakhiya2006) or starring a repo.
+
+</div>

@@ -161,23 +161,6 @@ learning:    Design Systems
 </tr>
 </table>
 
----
-
-<!-- ============================================================ -->
-<!--                       FEATURED PROJECTS                      -->
-<!-- ============================================================ -->
-## 📌 Featured Projects
-
-<div align="center">
-
-[![GO Invoice](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=GO_Invoice&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/GO_Invoice)
-[![Artisan Project](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=artisan_project&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/artisan_project)
-[![Final Project](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=final_project&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/final_project)
-[![Unit Converter](https://github-readme-stats.vercel.app/api/pin/?username=devturakhiya2006&repo=OIBSIP_UnitConverter&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00C4CC&title_color=00C4CC)](https://github.com/devturakhiya2006/OIBSIP_UnitConverter)
-
-</div>
-
----
 
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
